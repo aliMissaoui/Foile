@@ -1,0 +1,15 @@
+# Native splash for the app
+flutter_native_splash:
+  image: assets/images/foile_splash_icon.png
+  color: "#ED4040"
+  android: true
+  ios: true
+
+  android_12:
+    image: assets/images/foile_splash_icon.png
+    color: "#ED4040"
+    android: true
+    ios: true
+
+  android_gravity: center
+  ios_content_mode: center
